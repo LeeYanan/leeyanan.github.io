@@ -156,7 +156,8 @@ address span{
 }
 .skill1,.skill2{
 	 float:left;
-	 width:30%;
+	 width:50%;
+   height: 120px;
 }
 .skill1 h4,.skill2 h4{
 	color:#333;
@@ -165,7 +166,7 @@ address span{
 	display:inline-block;
 }
 .skill1 ul,.skill2 ul{
-	padding-left:4em;
+	padding-left:2em;
 }
 .skill1 ul li,.skill2 ul li{
 	color:#333;
@@ -303,16 +304,6 @@ h3.clr6{
   font-size: 0.8em;
 }
 
-.skill1, .skill2 {
-  float: left;
-  width: 50%;
-}
-.skill1 ul li,.skill2 ul li{
-	font-size:0.85em;
-}
-.skill1 h4, .skill2 h4 {
-  font-size: 1em;
-}
 .skill_list {
   padding: 0.7em 0 0 2em;
 }
